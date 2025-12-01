@@ -39,7 +39,7 @@ function App() {
     <>
       <h1>Что нужно сделать</h1>
       <ol>
-        <li>Исправить баг почему в селекте нет дефолтного значения</li>
+        <li>Исправить баг почему в селекте дефолтное значение Iran вместо Kazakhstan</li>
         <li>Добавить запрос к соответствующему json при переключении страны. json лежат в public/docs</li>
         <li>Реализовать фильтр, в который на лету будет фильтровать список по столбцу таблицы "Name university"</li>
         <li>Добавить подсветку всех вхождений из фильтра в столбце таблицы "Name university"</li>
@@ -56,10 +56,7 @@ function App() {
         </div>
         <div className="ms-5">
           <label className="d-block">Countries</label>
-          <select
-            value={country}
-            onChange={(e) => setCountry(e.target.value)}
-          >
+          <select value={country} onChange={(e) => setCountry(e.target.value)}>
             {countries.map(({ label, value }) => (
               <option key={value} value="value">
                 {label}
