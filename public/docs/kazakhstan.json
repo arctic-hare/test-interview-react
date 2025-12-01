@@ -1,0 +1,351 @@
+[
+    {
+      "web_pages": [
+        "http://www.ablaikhan.kz/"
+      ],
+      "domains": [
+        "ablaikhan.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Abylai Khan University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.agriun.almaty.kz/"
+      ],
+      "domains": [
+        "agriun.almaty.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Kazak State University of Agriculture",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.aktsu.kz/"
+      ],
+      "domains": [
+        "aktsu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Aktau State University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.atgu.kz/"
+      ],
+      "domains": [
+        "atgu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Atyrau State University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.ektu.kz/"
+      ],
+      "domains": [
+        "ektu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "East Kazakstan State Technical University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.enu.kz/"
+      ],
+      "domains": [
+        "enu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "L.N. Gumilyov Eurasian National University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.eurazir.kz/"
+      ],
+      "domains": [
+        "eurazir.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Eurasian Institute of market",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.kau.kz/"
+      ],
+      "domains": [
+        "kau.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Kazak American University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.kazeu.kz/"
+      ],
+      "domains": [
+        "kazeu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Turar Ryskulov Kazakh Economic University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.kaznpu.kz/"
+      ],
+      "domains": [
+        "kaznpu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Abai State University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.kazntu.kz/"
+      ],
+      "domains": [
+        "kazntu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Kazak National Technical University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.kaznu.kz/"
+      ],
+      "domains": [
+        "kaznu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Al-Farabi Kazakh National University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.kbtu.kz/"
+      ],
+      "domains": [
+        "kbtu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Kazakh British Technical University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.kimep.kz/"
+      ],
+      "domains": [
+        "kimep.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Kazakhstan Institute of Management, Economics, and Strategic Research",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.kstu.kz/"
+      ],
+      "domains": [
+        "kstu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Karaganda State Technical University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.ksu.kst.kz/"
+      ],
+      "domains": [
+        "ksu.kst.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Kostanai State University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.ksu.kz/"
+      ],
+      "domains": [
+        "ksu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Karaganda State Buketov University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.nkzu.kz/"
+      ],
+      "domains": [
+        "nkzu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "North Kazakhstan State University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.psu.kz/"
+      ],
+      "domains": [
+        "psu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Pavlodar University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.sdu.edu.kz/"
+      ],
+      "domains": [
+        "sdu.edu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Suleyman Demirel University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.semgu.kz/"
+      ],
+      "domains": [
+        "semgu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Semey State University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.sgma.kz/"
+      ],
+      "domains": [
+        "sgma.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Semey State Medical University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.turkistan.kz/"
+      ],
+      "domains": [
+        "turkistan.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "International Kazakh-Turkish University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.uib.kz/"
+      ],
+      "domains": [
+        "uib.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "University of International Business",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.vkgu.kz/"
+      ],
+      "domains": [
+        "vkgu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "East Kazakhstan State University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.wkau.kz/"
+      ],
+      "domains": [
+        "wkau.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Western Kazakhstan Agricultural University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.zhezu.kz/"
+      ],
+      "domains": [
+        "zhezu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Zhezkazgan Baikonurov University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "http://www.zhgu.kz/"
+      ],
+      "domains": [
+        "zhgu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Zhetysu State University",
+      "state-province": null
+    },
+    {
+      "web_pages": [
+        "https://nu.edu.kz/"
+      ],
+      "domains": [
+        "nu.edu.kz"
+      ],
+      "country": "Kazakhstan",
+      "alpha_two_code": "KZ",
+      "name": "Nazarbayev University",
+      "state-province": null
+    }
+  ]
+  
