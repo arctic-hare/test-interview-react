@@ -13,18 +13,18 @@ interface University {
 
 const countries: Country[] = [
   {
-    label: 'Kazakhstan',
-    value: 'kazakhstan'
+    label: "Iran",
+    value: "iran",
   },
   {
-    label: 'Iran',
-    value: 'iran'
+    label: "Kazakhstan",
+    value: "kazakhstan",
   },
 ];
 
 function App() {
   const [filter, setFilter] = useState('');
-  const [country, setCountry] = useState(countries[0].value);
+  const [country, setCountry] = useState("kazakhstan");
   const [list, setList] = useState<University[]>([]);
 
   useEffect(() => {
